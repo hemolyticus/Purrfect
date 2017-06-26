@@ -6,9 +6,19 @@ body
     font-family: "Lato";
     color: white;
 }
+html
+{
+    height: 100%;
+}
 #content
 {
     text-align: center;
     padding-top: 25%;
 }
 
+
+h1
+{
+    font-weight: 700;
+    font-size: 5em;
+}
